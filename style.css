@@ -1,0 +1,20 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-shadow: 2px 2px 49px 11px rgba(212, 212, 197, 1)
+}
+#about {
+    text-align: center;
+    margin: 40px;
+  }
+  #about img {
+    width: 200px;
+    border-radius: 100%;
+  }
+  #about h1 {
+    margin: 25px;
+  }
+  section {
+    margin: 40px;
+  }
